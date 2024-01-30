@@ -23,7 +23,7 @@ jobs:
             latest=auto
           images: |
             weigui/biliroaming-go-server
-            ghcr.io/weigui/biliroaming-go-server
+            ghcr.io/weigui404/biliroaming-go-server
           tags: |
             type=semver,pattern={{version}}
             type=raw,value=latest
