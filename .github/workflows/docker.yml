@@ -22,8 +22,8 @@ jobs:
           flavor: |
             latest=auto
           images: |
-            jasonkhew96/biliroaming-go-server
-            ghcr.io/jasonkhew96/biliroaming-go-server
+            weigui/biliroaming-go-server
+            ghcr.io/weigui/biliroaming-go-server
           tags: |
             type=semver,pattern={{version}}
             type=raw,value=latest
